@@ -1,0 +1,24 @@
+!1514;s
+A
+SAU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SCU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+S+U0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SJU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012CLASSPATH=+%;%<EXTENSION_CLASSPATHS>\012CLASSPATH+=%<JGRASP_CLASSPATHS>%;\012File\012CLASSPATH+=.%;\012CLASSPATH+=%<SRC_CLASSPATHS>%;\012ProjectOrFile\012PATH+=%<JAVA_BIN_DIR>%;\012PATH+=%<JGRASP_PATHS>%;\012Debug +Debug_Applet\012CLASSPATH=+%;%<INJECTION_CLASSPATHS>\012Compile\012NOT_FOUND_MESSAGE==Make sure you have the full JDK, not just the JRE, installed.\\nThe JDK is available from https://www.oracle.com/technetwork/java/index.html.\012Run_Applet +Debug_Applet\012ADD_APPLETVIEWER_CLASSPATH==Y\012Document\012CLASSPATH=+%;%<TOOL_CLASSPATHS>\012CLASSPATH+=%<CLASSES_DIR>%;\012
+SXU0
+SOU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<JGRASP_PATHS>%;\012PATH=+%;%<JGRASP_C_PATHS>\012CYGWIN=nodosfilewarning\012GCC_COLORS=\012-Run\012ADD_EXE_PATH==Y\012
+SyU0JGRASP_MAIN_BOUNDS=%<CONTROL_SHELL_BOUNDS>\012PATH+=%<PYTHON_PATH>%;\012PATH+=%<JGRASP_PATHS>%;\012CYGWIN=nodosfilewarning\012GCC_COLORS=
+SPU0
+s#i0
+s#k0
+s#j0
+s#l0
+!2816;d
+[\012  grasp [\012   legendy -40.0\012   legendx -113.5\012   version 1\012   winflags 7\012   eheight 691\012   ewidth 925\012   height 691\012   width 925\012   wbp 0\012   initlayout 0\012   yoffs 3.0\012   xoffs 111.0\012   scale 1.0\012   args ""\012   otherflags 139\012   shallowjar 1\012   visflags 118423807\012  ]\012  directed 1\012  node [\012   ClassInfo [\012    fields "graphicsPalette\\011LPalette;\\011\\0110\\011\\011\\011Form\011Form\\011()V\\011c\\0111\\011\\011\\011Form"\012    condition 0\012    access2 0\012    access 2228257\012    classname "Form"\012    fromclassfiledate 1588602784352\012    fromclassfilename "%\011Form.class"\012    fromfilename "%\011Form.java"\012   ]\012   id 0\012   graphics [\012    center [\012     x -111.0\012     y -3.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "car1Images\\011[Ljavax/swing/ImageIcon;\\011\\0110\\011\\011\\011Palette\011carPhase\\011I\\011\\0110\\011\\011\\011Palette\011timer\\011Ljavax/swing/Timer;\\011\\0110\\011\\011\\011Palette\011Palette\\011()V\\011c\\0111\\011\\011\\011Palette\011actionPerformed\\011(Ljava/awt/event/ActionEvent;)V\\011\\0111\\011\\011\\011Palette\011paintComponent\\011(Ljava/awt/Graphics;)V\\011\\0111\\011\\011\\011Palette"\012    condition 0\012    access2 0\012    access 2228257\012    classname "Palette"\012    fromclassfiledate 1588602784465\012    fromclassfilename "%\011Palette.class"\012    fromfilename "%\011Palette.java"\012   ]\012   id 1\012   graphics [\012    center [\012     x -7.0\012     y 3.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  node [\012   ClassInfo [\012    fields "ProgramEntry\\011()V\\011c\\0111\\011\\011\\011ProgramEntry\011main\\011([Ljava/lang/String;)V\\011\\0119\\011\\011\\011ProgramEntry"\012    condition 0\012    access2 0\012    access 2490401\012    classname "ProgramEntry"\012    fromclassfiledate 1588602784279\012    fromclassfilename "%\011ProgramEntry.class"\012    fromfilename "%\011ProgramEntry.java"\012   ]\012   id 2\012   graphics [\012    center [\012     x 111.0\012     y 3.0\012     z 0.0\012    ]\012   ]\012   vgj [\012    flags 0\012   ]\012  ]\012  edge [\012   ClassInfo [\012    dependencies "Palette\\011()V\\011c\\011\\011\\011\\011Palette\011setSize\\011(II)V\\011\\011\\011\\011\\011Palette"\012    type 3\012   ]\012   source 1\012   target 0\012  ]\012  edge [\012   ClassInfo [\012    dependencies "Form\\011()V\\011c\\011\\011\\011\\011Form\011setDefaultCloseOperation\\011(I)V\\011\\011\\011\\011\\011Form\011setResizable\\011(Z)V\\011\\011\\011\\011\\011Form\011setSize\\011(II)V\\011\\011\\011\\011\\011Form\011show\\011()V\\011\\011\\011\\011\\011Form"\012    type 3\012   ]\012   source 0\012   target 2\012  ]\012 ]!100;u
+a0	b68	c255	f%\011Part 1.jar	g%\011Part 1.zip	hManifest-Version\0111.0\011Main-Class\011ProgramEntry!56;g
+%\011Form.java
+%\011Palette.java
+%\011ProgramEntry.java
+!56;f
+%\011Form.java
+%\011Palette.java
+%\011ProgramEntry.java

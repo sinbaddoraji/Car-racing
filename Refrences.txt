@@ -1,0 +1,6 @@
+https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics.html
+https://docs.oracle.com/javase/7/docs/api/java/awt/Graphics2D.html
+https://docs.oracle.com/javase/7/docs/api/java/awt/Rectangle.html
+https://docs.oracle.com/javase/tutorial/networking/sockets/readingWriting.html
+https://docs.oracle.com/javase/7/docs/api/java/lang/Thread.html
+https://github.com/ratanak1010/Java-UDP-Chat
