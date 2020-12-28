@@ -1,5 +1,4 @@
-# Distributed-Programming
-Distributed Programming assignment 
+# Distributed-Programming assignment 
 
 This is an assignment for a university module called "Distributed Programming". It is a module that covers distributed programming concepts and the projects present in this respository show that the learning outcomes of the module have been met.
 
